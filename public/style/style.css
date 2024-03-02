@@ -71,7 +71,7 @@ nav {
 }
 
 #main-content {
-  width: 75%;
+  width: 80%;
   padding: 20px 0 20px 5%;
 }
 
@@ -125,6 +125,7 @@ h1 {
   color: #393735;
   letter-spacing: .1px;
   text-align: justify;
+  text-decoration: none;
   font-size: 18px;
 }
 
@@ -146,11 +147,35 @@ h1 {
 /* Sedebar */
 
 #sidebar {
-  width: 25%;
-  margin-top: 50px;
-  padding: 20px 2.5%;
+  width: 300px;
+  margin: 50px 0 0 20px;
+  padding: 20px 20px;
 }
 
+.sidebar-container {
+  margin: 30px 0;
+}
+
+#sidebar p {
+  letter-spacing: .1px;
+  text-align: justify;
+  font-size: 18px;
+}
+
+.sidebar-links {
+  margin: 10px 0;
+}
+
+#sidebar a {
+  color: #7c7975;
+  text-align: justify;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+#sidebar a:hover {
+  color: #393735;
+}
 
 /* Footer */
 
