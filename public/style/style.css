@@ -1,0 +1,79 @@
+html, body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+}
+
+
+/* Header */
+
+header {
+  background-color: #2592E8;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 5%;
+}
+
+.logo img{
+  width: 50px;
+}
+
+.site-title p {
+  color: #CECDCD;
+  font-weight: 500;
+  letter-spacing: .1px;
+  font-size: 20px;  
+  margin-left: 10px;
+}
+
+.spacer {
+  flex-grow: 1;
+}
+
+.nav-items a {
+  color: #CECDCD;
+  font-weight: 300;
+  text-decoration: none;
+  letter-spacing: .1px;
+  font-size: 20px;  
+  margin-left: 10px;
+}
+
+.nav-items a:hover {
+  font-weight: 500;
+}
+
+
+/* Main Content */
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  letter-spacing: .4px;
+  font-weight: 900;
+  font-size: 38px;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+  letter-spacing: .2px;
+  font-weight: 600;
+  font-size: 28px;
+}
+
+p {
+  letter-spacing: .1px;
+  font-size: 18px;
+}
+
+
+/* Sedebar */
+
+/* ... */
+
+
+/* Footer */
+
+/* ... */
