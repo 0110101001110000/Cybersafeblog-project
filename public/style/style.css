@@ -1,7 +1,20 @@
+
+
+/* Global */
+
 html, body {
   font-family: "Open Sans", sans-serif;
-  margin: 0;
   background-color: #E6E6E6;
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Roboto", sans-serif;
+  color: #393735;
+}
+
+p {
+  color: #393735;
 }
 
 
@@ -45,7 +58,7 @@ nav {
 }
 
 .nav-items a:hover {
-  font-weight: 500;
+  color: white;
 }
 
 
@@ -62,20 +75,18 @@ nav {
   padding: 20px 0 20px 5%;
 }
 
+h1 {
+  letter-spacing: .6px;
+  font-weight: 900;
+  font-size: 38px;
+  margin: 50px auto 50px auto;
+}
+
 .post {
   display: flex;
   align-items: center;
   justify-content: space-between;
   margin: 70px 0;
-}
-
-h1 {
-  font-family: "Roboto", sans-serif;
-  color: #393735;
-  letter-spacing: .4px;
-  font-weight: 900;
-  font-size: 38px;
-  margin: 50px auto 50px auto;
 }
 
 .post img {
@@ -88,16 +99,44 @@ h1 {
   text-decoration: none;
 }
 
-h2 {
-  font-family: "Roboto", sans-serif;
-  color: #393735;
-  letter-spacing: .2px;
+.post h2 {
+  letter-spacing: .4px;
   font-weight: 600;
   font-size: 28px;
 }
 
 .post p {
+  letter-spacing: .1px;
+  text-align: justify;
+  font-size: 18px;
+}
+
+.read-more-container h3 {
+  letter-spacing: .2px;
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.read-more-container li {
+  color: #7c7975;
+} 
+
+.read-more-container a {
   color: #393735;
+  letter-spacing: .1px;
+  text-align: justify;
+  font-size: 18px;
+}
+
+.read-more-container a:hover {
+  color: black;
+}
+
+.message {
+  margin: 70px 0;
+}
+
+.message p {
   letter-spacing: .1px;
   text-align: justify;
   font-size: 18px;
