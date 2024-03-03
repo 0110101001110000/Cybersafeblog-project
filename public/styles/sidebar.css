@@ -1,0 +1,29 @@
+
+
+/* Sedebar */
+
+.sidebar-container {
+  margin: 30px 0;
+}
+
+#sidebar p {
+  color: #393735;
+  letter-spacing: .1px;
+  text-align: justify;
+  font-size: 18px;
+}
+
+.sidebar-links {
+  margin: 10px 0;
+}
+
+#sidebar a {
+  color: #7c7975;
+  text-align: justify;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+#sidebar a:hover {
+  color: #393735;
+}

@@ -1,0 +1,41 @@
+
+
+/* Header */
+
+header {
+  background-color: #2592E8;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 5%;
+}
+
+nav .logo img{
+  width: 50px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #CECDCD;
+  letter-spacing: .1px;
+  font-size: 20px;  
+  margin-left: 10px;
+}
+
+nav .site-title a {
+  font-weight: 500;
+}
+
+nav .spacer {
+  flex-grow: 1;
+}
+
+.nav-items a {
+  font-weight: 300;
+}
+.nav-items a:hover {
+  color: white;
+}

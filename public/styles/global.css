@@ -1,0 +1,34 @@
+
+
+/* Global */
+
+html, body {
+  font-family: "Open Sans", sans-serif;
+  background-color: #E6E6E6;
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Roboto", sans-serif;
+  color: #393735;
+}
+
+#main-container {
+  display: flex;
+  align-items: normal;
+  justify-content: space-between;
+
+}
+#main-content {
+  width: 80%;
+  padding: 20px 0 20px 5%;
+}
+#sidebar {
+  width: 300px;
+  margin: 50px 0 0 20px;
+  padding: 20px 20px;
+}
+
+#main-container .spacer {
+  flex-grow: 1;
+}

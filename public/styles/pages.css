@@ -1,0 +1,26 @@
+
+
+/* Page Style */
+
+h1 {
+  margin: 50px 0 0 0;
+  letter-spacing: .6px;
+  font-weight: 900;
+  font-size: 38px;
+  color: #393735;
+}
+
+p {
+  margin: 25px 0 0 0;
+}
+
+h2 {
+  margin: 50px 0 0 0;
+}
+
+.email-content {
+  margin: 25px 0 0 0;
+}
+.email-content p {
+  margin: 0;
+}
