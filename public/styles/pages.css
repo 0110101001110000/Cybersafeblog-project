@@ -2,20 +2,38 @@
 
 /* Page Style */
 
+#main-content p {
+  letter-spacing: .1px;
+  text-align: justify;
+  font-size: 18px;
+  color: #393735;
+}
+#main-content li {
+  color: #7c7975;
+}
+#main-content a {
+  text-decoration: none;
+  letter-spacing: .1px;
+  text-align: justify;
+  font-size: 18px;
+  color: #393735;
+}
+#main-content a:hover {
+  color: black;
+}
+#main-content div p {
+  margin: 0;
+}
+
 h1 {
   margin: 50px 0 0 0;
   letter-spacing: .6px;
   font-weight: 900;
   font-size: 38px;
-  color: #393735;
 }
 
 .message-paragraph {
   margin: 50px 0 0 0;
-  letter-spacing: .1px;
-  text-align: justify;
-  font-size: 18px;
-  color: #393735;
 }
 
 h2 {
@@ -28,49 +46,12 @@ h2 {
 .email-content {
   margin: 25px 0 0 0;
 }
-.email-content p {
-  margin: 0;
-  letter-spacing: .1px;
-  text-align: justify;
-  font-size: 18px;
-  color: #393735;
-}
-.email-content li {
-  color: #7c7975;
-}
-.email-content a {
-  text-decoration: none;
-  letter-spacing: .1px;
-  text-align: justify;
-  font-size: 18px;
-  color: #393735;
-}
-.email-content a:hover {
-  color: black;
-}
 
 .phone-content {
   margin: 25px 0 0 0; 
 }
-.phone-content p {
-  margin: 0;
-  letter-spacing: .1px;
-  text-align: justify;
-  font-size: 18px;
-  color: #393735;
-}
 .phone-content ul {
   margin: 16px 0 0 0;
-}
-.phone-content li {
-  color: #7c7975;
-}
-.phone-content a {
-  text-decoration: none;
-  letter-spacing: .1px;
-  text-align: justify;
-  font-size: 18px;
-  color: #393735;
 }
 
 .address-content {
@@ -79,31 +60,10 @@ h2 {
 .address-content ul {
   margin: 10px 0 0 0;
 }
-.address-content li {
-  color: #7c7975;
-}
-.address-content p {
-  margin: 0;
-  letter-spacing: .1px;
-  text-align: justify;
-  font-size: 18px;
-  color: #393735;
-}
 
 .social-media-content {
   margin: 25px 0 0 0;
 }
-.social-media-content p {
-  margin: 0;
-  letter-spacing: .1px;
-  text-align: justify;
-  font-size: 18px;
-  color: #393735;
-}
 .social-media-content ul {
   margin: 10px 0 0 0;
 }
-.social-media-content li {
-  color: #7c7975;
-}
-
