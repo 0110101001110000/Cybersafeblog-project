@@ -12,10 +12,16 @@ h1 {
 
 .message-paragraph {
   margin: 50px 0 0 0;
+  letter-spacing: .1px;
+  text-align: justify;
+  font-size: 18px;
 }
 
 h2 {
   margin: 50px 0 0 0;
+  letter-spacing: .4px;
+  font-weight: 600;
+  font-size: 28px;
 }
 
 .email-content {
@@ -23,6 +29,15 @@ h2 {
 }
 .email-content p {
   margin: 0;
+  letter-spacing: .1px;
+  text-align: justify;
+  font-size: 18px;
+}
+.email-content a {
+  text-decoration: none;
+  letter-spacing: .1px;
+  text-align: justify;
+  font-size: 18px;
 }
 
 .phone-content {
@@ -30,9 +45,18 @@ h2 {
 }
 .phone-content p {
   margin: 0;
+  letter-spacing: .1px;
+  text-align: justify;
+  font-size: 18px;
 }
 .phone-content ul {
   margin: 16px 0 0 0;
+}
+.phone-content a {
+  text-decoration: none;
+  letter-spacing: .1px;
+  text-align: justify;
+  font-size: 18px;
 }
 
 .address-content {
@@ -43,6 +67,9 @@ h2 {
 }
 .address-content p {
   margin: 0;
+  letter-spacing: .1px;
+  text-align: justify;
+  font-size: 18px;
 }
 
 .social-media-content {
@@ -50,6 +77,9 @@ h2 {
 }
 .social-media-content p {
   margin: 0;
+  letter-spacing: .1px;
+  text-align: justify;
+  font-size: 18px;
 }
 .social-media-content ul {
   margin: 10px 0 0 0;
