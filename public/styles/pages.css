@@ -15,6 +15,7 @@ h1 {
   letter-spacing: .1px;
   text-align: justify;
   font-size: 18px;
+  color: #393735;
 }
 
 h2 {
@@ -32,12 +33,20 @@ h2 {
   letter-spacing: .1px;
   text-align: justify;
   font-size: 18px;
+  color: #393735;
+}
+.email-content li {
+  color: #7c7975;
 }
 .email-content a {
   text-decoration: none;
   letter-spacing: .1px;
   text-align: justify;
   font-size: 18px;
+  color: #393735;
+}
+.email-content a:hover {
+  color: black;
 }
 
 .phone-content {
@@ -48,15 +57,20 @@ h2 {
   letter-spacing: .1px;
   text-align: justify;
   font-size: 18px;
+  color: #393735;
 }
 .phone-content ul {
   margin: 16px 0 0 0;
+}
+.phone-content li {
+  color: #7c7975;
 }
 .phone-content a {
   text-decoration: none;
   letter-spacing: .1px;
   text-align: justify;
   font-size: 18px;
+  color: #393735;
 }
 
 .address-content {
@@ -65,11 +79,15 @@ h2 {
 .address-content ul {
   margin: 10px 0 0 0;
 }
+.address-content li {
+  color: #7c7975;
+}
 .address-content p {
   margin: 0;
   letter-spacing: .1px;
   text-align: justify;
   font-size: 18px;
+  color: #393735;
 }
 
 .social-media-content {
@@ -80,8 +98,12 @@ h2 {
   letter-spacing: .1px;
   text-align: justify;
   font-size: 18px;
+  color: #393735;
 }
 .social-media-content ul {
   margin: 10px 0 0 0;
+}
+.social-media-content li {
+  color: #7c7975;
 }
 
