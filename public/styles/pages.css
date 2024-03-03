@@ -10,8 +10,8 @@ h1 {
   color: #393735;
 }
 
-p {
-  margin: 25px 0 0 0;
+.message-paragraph {
+  margin: 50px 0 0 0;
 }
 
 h2 {
@@ -24,3 +24,34 @@ h2 {
 .email-content p {
   margin: 0;
 }
+
+.phone-content {
+  margin: 25px 0 0 0; 
+}
+.phone-content p {
+  margin: 0;
+}
+.phone-content ul {
+  margin: 16px 0 0 0;
+}
+
+.address-content {
+  margin: 25px 0 0 0;
+}
+.address-content ul {
+  margin: 10px 0 0 0;
+}
+.address-content p {
+  margin: 0;
+}
+
+.social-media-content {
+  margin: 25px 0 0 0;
+}
+.social-media-content p {
+  margin: 0;
+}
+.social-media-content ul {
+  margin: 10px 0 0 0;
+}
+

@@ -3,11 +3,12 @@
 /* Footer */
 
 footer {
-  background-color: #0A3367;
   padding: 65px 5%;
+  margin-top: 70px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  background-color: #0A3367;
 }
 
 footer .spacer {
