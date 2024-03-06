@@ -33,10 +33,6 @@ h1 {
   font-size: 38px;
 }
 
-.message-paragraph {
-  margin: 50px 0 0 0;
-}
-
 h2 {
   margin: 50px 0 0 0;
   letter-spacing: .4px;
@@ -44,29 +40,8 @@ h2 {
   font-size: 28px;
 }
 
-.email-content {
-  margin: 25px 0 0 0;
-}
-
-.phone-content {
-  margin: 25px 0 0 0; 
-}
-.phone-content ul {
-  margin: 16px 0 0 0;
-}
-
-.address-content {
-  margin: 25px 0 0 0;
-}
-.address-content ul {
-  margin: 10px 0 0 0;
-}
-
-.social-media-content {
-  margin: 25px 0 0 0;
-}   
-.social-media-content ul {
-  margin: 10px 0 0 0;
+.message-paragraph {
+  margin: 50px 0 0 0;
 }
 
 .div-content {
