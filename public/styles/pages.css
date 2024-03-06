@@ -2,27 +2,6 @@
 
 /* Page Style */
 
-#main-content p {
-  letter-spacing: .1px;
-  text-align: justify;
-  font-size: 18px;
-  color: #393735;
-}
-#main-content li {
-  color: #7c7975;
-  margin: 10px 0;
-}
-#main-content a {
-  text-decoration: none;
-  letter-spacing: .1px;
-  text-align: justify;
-  font-size: 18px;
-  color: #393735;
-}
-#main-content a:hover {
-  color: black;
-}
-
 h1 {
   margin: 50px 0 0 0;
   letter-spacing: .6px;
@@ -37,8 +16,31 @@ h2 {
   font-size: 28px;
 }
 
+p {
+  letter-spacing: .1px;
+  text-align: justify;
+  font-size: 18px;
+  color: #393735;
+}
+
 div p {
   margin: 0;
+}
+
+li {
+  color: #7c7975;
+  margin: 10px 0;
+}
+
+a {
+  text-decoration: none;
+  letter-spacing: .1px;
+  text-align: justify;
+  font-size: 18px;
+  color: #393735;
+}
+a:hover {
+  color: black;
 }
 
 .div-content {
@@ -51,4 +53,8 @@ div p {
 
 .simple-paragraph {
   margin: 16px 0 0 0;
+}
+
+span a {
+  text-decoration: underline;
 }
