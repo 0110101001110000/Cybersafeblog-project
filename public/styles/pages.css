@@ -65,3 +65,41 @@ a:hover {
 span a {
   text-decoration: underline;
 }
+
+
+/* NewsLetter page form */
+form {
+  margin: 50px 0 0 0;
+}
+
+input {
+  border-radius: 10px;
+  border-width: .1px;
+  margin: 0 5px;
+  padding: 5px;
+  letter-spacing: .1px;
+  text-align: justify;
+  font-size: 18px;
+  color: #393735;  
+}
+input:focus {
+  border-color: #1966a0;
+  border-width: .1px;
+}
+
+button {
+  border-radius: 10px;
+  border-width: .1px;
+  margin: 0 0 0 10px;
+  padding: 5px 10px;
+  letter-spacing: .1px;
+  font-size: 18px;
+  background-color: #2592E8;  
+  color: white;
+}
+button:hover {
+  background-color: #2aa0f9;
+}
+button:focus {
+  background-color: #1966a0;
+}
