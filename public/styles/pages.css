@@ -10,6 +10,7 @@
 }
 #main-content li {
   color: #7c7975;
+  margin: 10px 0;
 }
 #main-content a {
   text-decoration: none;
@@ -63,7 +64,11 @@ h2 {
 
 .social-media-content {
   margin: 25px 0 0 0;
-}
+}   
 .social-media-content ul {
   margin: 10px 0 0 0;
+}
+
+.div-content {
+  margin: 25px 0 0 0;
 }
