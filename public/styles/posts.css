@@ -1,0 +1,111 @@
+
+
+/* Post Style */
+
+h1 {
+  margin: 50px 0 0 0;
+  letter-spacing: .6px;
+  font-weight: 900;
+  font-size: 38px;
+}
+
+h2 {
+  margin: 50px 0 0 0;
+  letter-spacing: .4px;
+  font-weight: 600;
+  font-size: 28px;
+}
+
+h3 {
+  margin: 50px 0 0 0;
+  letter-spacing: .2px;
+  font-weight: 600;
+  font-size: 24px;
+}
+
+.post-image {
+  border-radius: 10px;
+  margin: 50px 0 0 0;
+  width: 100%;
+}
+
+p {
+  letter-spacing: .1px;
+  text-align: justify;
+  font-size: 18px;
+  color: #393735;
+}
+
+div p {
+  margin: 0;
+}
+
+li {
+  color: #7c7975;
+  margin: 10px 0;
+}
+
+a {
+  text-decoration: none;
+  letter-spacing: .1px;
+  text-align: justify;
+  font-size: 18px;
+  color: #393735;
+}
+a:hover {
+  color: black;
+}
+
+.div-content {
+  margin: 25px 0 0 0;
+}
+
+.message-paragraph {
+  margin: 50px 0 0 0;
+}
+
+.simple-paragraph {
+  margin: 16px 0 0 0;
+}
+
+span a {
+  text-decoration: underline;
+}
+
+
+/* NewsLetter page form */
+form {
+  margin: 50px 0 0 0;
+}
+
+input {
+  border-radius: 10px;
+  border-width: .1px;
+  margin: 0 5px;
+  padding: 5px;
+  letter-spacing: .1px;
+  text-align: justify;
+  font-size: 18px;
+  color: #393735;  
+}
+input:focus {
+  border-color: #1966a0;
+  border-width: .1px;
+}
+
+button {
+  border-radius: 10px;
+  border-width: .1px;
+  margin: 0 0 0 10px;
+  padding: 5px 10px;
+  letter-spacing: .1px;
+  font-size: 18px;
+  background-color: #2592E8;  
+  color: white;
+}
+button:hover {
+  background-color: #2aa0f9;
+}
+button:focus {
+  background-color: #1966a0;
+}
