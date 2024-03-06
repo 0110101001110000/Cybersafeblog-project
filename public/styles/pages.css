@@ -22,9 +22,6 @@
 #main-content a:hover {
   color: black;
 }
-#main-content div p {
-  margin: 0;
-}
 
 h1 {
   margin: 50px 0 0 0;
@@ -40,10 +37,18 @@ h2 {
   font-size: 28px;
 }
 
-.message-paragraph {
-  margin: 50px 0 0 0;
+div p {
+  margin: 0;
 }
 
 .div-content {
   margin: 25px 0 0 0;
+}
+
+.message-paragraph {
+  margin: 50px 0 0 0;
+}
+
+.simple-paragraph {
+  margin: 16px 0 0 0;
 }
