@@ -18,8 +18,10 @@ h1 {
 }
 .post img {
   width: 350px;
-  margin-right: 20px;
   border-radius: 10px;
+}
+.post div {
+  margin: 0 0 0 20px;
 }
 .post h2 {
   letter-spacing: .4px;
@@ -58,7 +60,7 @@ h1 {
 
 /* Bottom Message Section */
 .message {
-  margin: 70px 0;
+  margin: 70px 0 0 0;
 }
 .message p {
   color: #393735;
